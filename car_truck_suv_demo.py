@@ -8,6 +8,8 @@ def main():
     # with 70,000 miles, priced at $15,000, with
     # 4 doors.
     car = vehicles.Car('BMW', 2001, 70000, 15000.0, 4)
+    car23230=6
+    car45=0
     # Create a Truck object for a used 2002
     # Toyota pickup with 40,000 miles, priced
     # at $12,000, with 4-wheel drive.
